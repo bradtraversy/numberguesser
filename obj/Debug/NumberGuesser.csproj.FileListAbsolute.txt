@@ -1,0 +1,6 @@
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\bin\Debug\NumberGuesser.exe
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\bin\Debug\NumberGuesser.pdb
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.exe
+d:\dropbox\documents\visual studio 2017\Projects\NumberGuesser\obj\Debug\NumberGuesser.pdb
