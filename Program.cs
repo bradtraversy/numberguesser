@@ -23,7 +23,7 @@ namespace NumberGuesser
                 Random random = new Random();
 
                 // Init correct number
-                int correctNumber = random.Next(1, 10);
+                int correctNumber = random.Next(1, 11);
 
                 // Init guess var
                 int guess = 0;
@@ -92,7 +92,7 @@ namespace NumberGuesser
             Console.ForegroundColor = ConsoleColor.Green;
 
             // Write out app info
-            Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
+            Console.WriteLine($"{appName}: Version {appVersion} by {appAuthor}");
 
             // Reset text color
             Console.ResetColor();
@@ -106,7 +106,7 @@ namespace NumberGuesser
             // Get user input
             string inputName = Console.ReadLine();
 
-            Console.WriteLine("Hello {0}, let's play a game...", inputName);
+            Console.WriteLine($"Hello {inputName}, let's play a game...");
         }
 
         // Print color message
